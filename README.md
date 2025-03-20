@@ -1,2 +1,8 @@
-# M346_KNVorlage
-Vorlage für die Kompetenznachweise im Modul M346
+# M346 - Kompetenznachweise
+
+* Autor : LERNENDER
+* Datum : xx.xx.xxxx
+
+> Platzieren Sie jeweils die Umsetzungsnachweise / Notizen / Zusammenfassungen in dem jeweilen Subverzeichnis (organisiert nach Handlungskompetenzen)
+
+
